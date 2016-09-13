@@ -108,6 +108,7 @@
     <Compile Include="InitialViewController.fs" />
     <Compile Include="AppDelegate.fs" />
     <Compile Include="Main.fs" />
+    <None Include="Main.storyboard" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
