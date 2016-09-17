@@ -107,6 +107,7 @@
     <Compile Include="InitialView.fs" />
     <Compile Include="InitialViewController.fs" />
     <Compile Include="AppDelegate.fs" />
+    <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Main.fs" />
     <None Include="Main.storyboard" />
   </ItemGroup>

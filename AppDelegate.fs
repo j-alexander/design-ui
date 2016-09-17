@@ -1,4 +1,4 @@
-namespace CoreGraphicsFun
+namespace DesignUI
 
 open System
 
