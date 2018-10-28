@@ -37,5 +37,7 @@
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>Main.storyboard</string>
+	<key>CFBundleName</key>
+	<string>DesignUI</string>
 </dict>
 </plist>
