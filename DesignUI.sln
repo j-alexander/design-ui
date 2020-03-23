@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DesignUI", "DesignUI.fsproj", "{659F11C5-4FC4-47B3-93C1-77219B32C74D}"
 EndProject
@@ -27,6 +27,7 @@ Global
 		{659F11C5-4FC4-47B3-93C1-77219B32C74D}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
 		{659F11C5-4FC4-47B3-93C1-77219B32C74D}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{659F11C5-4FC4-47B3-93C1-77219B32C74D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{659F11C5-4FC4-47B3-93C1-77219B32C74D}.Debug|iPhone.Deploy.0 = Debug|iPhone
 		{659F11C5-4FC4-47B3-93C1-77219B32C74D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
 		{659F11C5-4FC4-47B3-93C1-77219B32C74D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
 		{659F11C5-4FC4-47B3-93C1-77219B32C74D}.Release|iPhone.ActiveCfg = Release|iPhone
@@ -36,5 +37,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5372931F-6004-4A3E-9B37-60208B8A3324}
 	EndGlobalSection
 EndGlobal
